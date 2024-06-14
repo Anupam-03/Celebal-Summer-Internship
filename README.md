@@ -86,7 +86,7 @@ Gaining practical experience in JavaScript, MongoDB, Express.js, and RESTful API
 
 # Week 4 Assignment - Create a basic web server with Express.js.
 
-🖥️ Code: https://github.com/Anupam-03/Week-3_Assignment_Celebal-Summer-Internship
+🖥️ Code: https://github.com/Anupam-03/Week-4_Assignment_Celebal-Summer-Internship
 
 ## Introduction
 
