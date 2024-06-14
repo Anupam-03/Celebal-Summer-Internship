@@ -41,6 +41,15 @@ Gaining practical experience in JavaScript, MongoDB, Express.js, and RESTful API
   </ol>
 </details>
 
+<details>
+<summary>
+<a href="#week-4-assignment---create-a-basic-web-server-with-Express.js">Week 4 Assignment - Create a basic web server with Express.js.</a>
+</summary>
+  <ol>
+    <li><a href="#introduction-1">Introduction</a></li>
+  </ol>
+</details>
+
 <br/>
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -72,5 +81,16 @@ Gaining practical experience in JavaScript, MongoDB, Express.js, and RESTful API
 ## Introduction
 
 ⭐️ This is a Node.js project that demonstrates refactoring code from callbacks to Promises and Async/Await for better readability and error handling.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Week 4 Assignment - Create a basic web server with Express.js.
+
+🖥️ Code: https://github.com/Anupam-03/Week-3_Assignment_Celebal-Summer-Internship
+
+## Introduction
+
+⭐️ This project involves setting up a basic web server using Express.js, a minimal and flexible Node.js web application framework. The server handles basic routing and middleware, serving three web pages: Home, About, and Contact. The frontend pages are linked together for seamless navigation, providing users with a cohesive browsing experience.
+
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
